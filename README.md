@@ -1,14 +1,18 @@
-# Tugas Besar 1 IF 3170 Intelejensi Buatan
----
+<p align="center">
+    <img src="docs/thumbnail.gif" width="400">
+    <h2 align="center">Halma AI</h2>
+</p> 
+<p align="center">A halma checker game with AI Agent that can make yourself better...</p>
 
-### Anggota
-Jovan Karuna Cahyadi | 13518024
-Tony Eko Yuwono | 13518030
-Stefanus Stanley Yoga Setiawan | 13518122
-William | 13518138
+## ✨ Features
 
-### How to setup
-1. Install virtualenv if you haven't
+- GUI / CMD Board
+- Multiple size board (8x8, 10x10, 16x16)
+- Multiple AI Agent Style (Minmax, Local Search)
+- Multiple Game Mode (Player vs AI, AI vs AI)
+
+### Usage
+1. (optional)Install virtualenv if you haven't
 ```bash
 pip install virtualenv
 ```
@@ -48,3 +52,16 @@ Linux/MacOS:
 ```bash
 run.sh
 ```
+
+## 📚 Tech Stack
+- Python
+- PySimpleGUI
+
+## Contributor
+* [William](https://github.com/William9923)
+* [Stefanus](https://github.com/stanleyyoga123)
+* [Tony](https://github.com/tonyeko)
+* [Jovan](https://github.com/JovanKaruna)
+
+## ❤️ Support
+If you feel that this repo have helped you provide more example on learning software engineering, then it is enough for me! Wanna contribute more? Please ⭐ this repo so other can see it too!
